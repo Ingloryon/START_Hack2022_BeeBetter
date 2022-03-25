@@ -19,15 +19,15 @@ The app could be distributed through Microsoft's network, organizations active i
 
 https://www.figma.com/file/KkPr5YO9bBTzDs7YW7Hf1z/BeeBetter?node-id=0%3A1
 
-<img src="screenshots/s1" width="300">
+<img src="screenshots/s1.png" width="900">
 
-<img src="screenshots/s2" width="300">
+<img src="screenshots/s2.png" width="900">
 
-<img src="screenshots/s3" width="300">
+<img src="screenshots/s3.png" width="900">
 
-<img src="screenshots/s4" width="300">
+<img src="screenshots/s4.png" width="900">
 
-<img src="screenshots/s5" width="300">
+<img src="screenshots/s5.png" width="900">
 
 
 
